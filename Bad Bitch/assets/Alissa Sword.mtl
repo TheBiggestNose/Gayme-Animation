@@ -1,0 +1,21 @@
+newmtl AlisaSword:MI_AlisaSword
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd T_AlisaSword_C.png
+map_Ka T_AlisaSword_C.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl MeshSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SpacePirate_diffuse.png
+bump  -bm 1 SpacePirate_normal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpacePirate_specular.png
+Ns 0.00
