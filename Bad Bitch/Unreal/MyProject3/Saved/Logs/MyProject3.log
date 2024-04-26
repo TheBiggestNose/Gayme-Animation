@@ -2333,3 +2333,73 @@ Would you like to regenerate the Skeleton from this mesh?
 [2024.04.26-15.04.05:079][310]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.37% of total time (compiled  128 times, average 0.79 sec, max 1.22 sec, min 0.60 sec)
 [2024.04.26-15.04.05:079][310]LogShaderCompilers: Display: ================================================
 [2024.04.26-15.04.14:119][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.26-15.05.11:052][199]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.04.26-15.05.29:810][660]LogSlate: Took 0.005951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.26-15.05.39:942][446]LogSlate: Window 'IMC_Default' being destroyed
+[2024.04.26-15.05.46:822][946]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.04.26-15.05.46:826][946]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.04.26-15.05.46:833][947]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.04.26-15.05.52:761][537]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Sprint
+[2024.04.26-15.05.52:771][537]LogContentBrowser: End creating deferred item NewInputAction
+[2024.04.26-15.06.00:894][228]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.04.26-15.06.00:898][228]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.04.26-15.06.00:905][229]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.04.26-15.06.04:358][570]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Attack
+[2024.04.26-15.06.04:359][570]LogContentBrowser: End creating deferred item NewInputAction
+[2024.04.26-15.06.09:673][ 84]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPerson/Input/Actions/IA_Sprint.IA_Sprint
+[2024.04.26-15.06.16:430][613]LogSlate: Window 'IA_Sprint' being destroyed
+[2024.04.26-15.06.21:665][106]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.04.26-15.06.56:273][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.26-15.06.56:331][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/IMC_Default" FILE="D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/ThirdPerson/Input/IMC_Default.uasset" SILENT=true
+[2024.04.26-15.06.56:333][753]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2024.04.26-15.06.56:334][753]LogSavePackage: Moving 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Saved/IMC_DefaultBBCA68CD498757C48D6A8B96B0C3078C.tmp' to 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2024.04.26-15.06.56:357][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 5.50 sec)
+[2024.04.26-15.06.56:365][753]AssetCheck: New page: Asset Save: IMC_Default
+[2024.04.26-15.06.56:365][753]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.04.26-15.06.59:079][965]LogSlate: Window 'IMC_Default' being destroyed
+[2024.04.26-15.08.02:939][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.04.26-15.08.02:941][182]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.059
+[2024.04.26-15.08.02:941][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.26-15.08.02:956][182]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.26-15.08.02:956][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.26-15.08.02:967][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.04.26-15.08.02:968][182]LogSavePackage: Moving 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Saved/BP_ThirdPersonCharacter_Auto282A6E2B14D2FF685038EEDB8175237FE.tmp' to 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.04.26-15.08.02:968][182]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/MyChar/Bad_Bitch_ABP] ([2] browsable assets)...
+[2024.04.26-15.08.02:992][182]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/MyChar/Bad_Bitch_ABP.Bad_Bitch_ABP]
+[2024.04.26-15.08.02:992][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/MyChar/Bad_Bitch_ABP]
+[2024.04.26-15.08.03:014][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/MyChar/Bad_Bitch_ABP_Auto2
+[2024.04.26-15.08.03:015][182]LogSavePackage: Moving 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Saved/Bad_Bitch_ABP_Auto2F1206D5D486E667B6728249D540C610E.tmp' to 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Saved/Autosaves/Game/Characters/MyChar/Bad_Bitch_ABP_Auto2.uasset'
+[2024.04.26-15.08.03:015][182]LogFileHelpers: Auto-saving content packages took 0.074
+[2024.04.26-15.08.33:140][607]BlueprintLog: New page: Compile Bad_Bitch_ABP
+[2024.04.26-15.08.33:147][607]LogBlueprint: Warning: [AssetLog] D:\Gayme-Animation\Bad Bitch\Unreal\MyProject3\Content\Characters\MyChar\Bad_Bitch_ABP.uasset: [Compiler] Idle/walk to Attack  will never be taken, please connect something to  Can Enter Transition
+[2024.04.26-15.08.33:147][607]LogBlueprint: Warning: [AssetLog] D:\Gayme-Animation\Bad Bitch\Unreal\MyProject3\Content\Characters\MyChar\Bad_Bitch_ABP.uasset: [Compiler] Attack to Idle/walk  will never be taken, please connect something to  Can Enter Transition
+[2024.04.26-15.08.33:224][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.04.26-15.08.36:107][924]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.26-15.08.36:117][924]LogBlueprint: Warning: [AssetLog] D:\Gayme-Animation\Bad Bitch\Unreal\MyProject3\Content\Characters\MyChar\Bad_Bitch_ABP.uasset: [Compiler] Idle/walk to Attack  will never be taken, please connect something to  Can Enter Transition
+[2024.04.26-15.08.36:117][924]LogBlueprint: Warning: [AssetLog] D:\Gayme-Animation\Bad Bitch\Unreal\MyProject3\Content\Characters\MyChar\Bad_Bitch_ABP.uasset: [Compiler] Attack to Idle/walk  will never be taken, please connect something to  Can Enter Transition
+[2024.04.26-15.08.36:210][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.26-15.08.36:763][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.26-15.08.36:860][972]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.26-15.08.36:860][972]LogSavePackage: Moving 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Saved/BP_ThirdPersonCharacter8AC0303E4E41EDDE81E9DF87447854C5.tmp' to 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.26-15.08.36:868][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 5.60 sec)
+[2024.04.26-15.08.36:875][972]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.26-15.08.36:875][972]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.26-15.08.37:980][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.26-15.08.38:056][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MyChar/Bad_Bitch_ABP" FILE="D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/Characters/MyChar/Bad_Bitch_ABP.uasset" SILENT=true
+[2024.04.26-15.08.38:078][ 85]LogSavePackage: Moving output files for package: /Game/Characters/MyChar/Bad_Bitch_ABP
+[2024.04.26-15.08.38:078][ 85]LogSavePackage: Moving 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Saved/Bad_Bitch_ABP599B1AA24B426F0FF28F56A5443C1E12.tmp' to 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/Characters/MyChar/Bad_Bitch_ABP.uasset'
+[2024.04.26-15.08.38:085][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 5.71 sec)
+[2024.04.26-15.08.38:092][ 85]AssetCheck: New page: Asset Save: Bad_Bitch_ABP
+[2024.04.26-15.08.38:092][ 85]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/MyChar/Bad_Bitch_ABP.Bad_Bitch_ABP
+[2024.04.26-15.08.42:864][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.04.26-15.08.42:868][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.26-15.08.42:913][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/Actions/IA_Sprint" FILE="D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset" SILENT=true
+[2024.04.26-15.08.42:914][491]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Sprint
+[2024.04.26-15.08.42:914][491]LogSavePackage: Moving 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Saved/IA_Sprint0FC534EC4B8B403256583BA476664C22.tmp' to 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset'
+[2024.04.26-15.08.42:914][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/Actions/IA_Attack" FILE="D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/ThirdPerson/Input/Actions/IA_Attack.uasset" SILENT=true
+[2024.04.26-15.08.42:915][491]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Attack
+[2024.04.26-15.08.42:915][491]LogSavePackage: Moving 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Saved/IA_AttackFC3547A147804DE4DE3E39AD0DA2ADE8.tmp' to 'D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/ThirdPerson/Input/Actions/IA_Attack.uasset'
+[2024.04.26-15.08.42:920][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 5.76 sec)
+[2024.04.26-15.08.42:927][491]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.26-15.08.42:927][491]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPerson/Input/Actions/IA_Attack.IA_Attack
+[2024.04.26-15.08.42:927][491]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPerson/Input/Actions/IA_Sprint.IA_Sprint
