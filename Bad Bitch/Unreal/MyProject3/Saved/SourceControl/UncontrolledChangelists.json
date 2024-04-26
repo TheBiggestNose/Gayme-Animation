@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Fork/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/Characters/MyChar/Idle_To_Walk.uasset",
+				"E:/Fork/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/Characters/MyChar/NewBlendSpace1D.uasset",
 				"D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/Characters/MyChar/Bad_Bitch_ABP.uasset",
 				"D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Gayme-Animation/Bad Bitch/Unreal/MyProject3/Content/Characters/MyChar/Textures/SpacePirate_diffuse.uasset",
